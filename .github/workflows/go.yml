@@ -23,6 +23,7 @@ jobs:
           - s01-natural-language-to-tool-calls
           - s02-own-your-prompts
           - s03-own-your-context-window
+          - s04-tools-are-structured-outputs
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
