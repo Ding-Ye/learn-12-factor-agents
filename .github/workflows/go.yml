@@ -26,6 +26,7 @@ jobs:
           - s04-tools-are-structured-outputs
           - s05-unify-execution-state
           - s06-launch-pause-resume
+          - s07-contact-humans-with-tools
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

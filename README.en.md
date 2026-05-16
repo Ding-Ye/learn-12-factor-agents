@@ -18,7 +18,7 @@ Pedagogy borrowed from [shareAI-lab/learn-claude-code](https://github.com/shareA
 | s04 | [tools-are-structured-outputs](./docs/en/s04-tools-are-structured-outputs.md) | Tools are structured outputs | 4 | ✅ |
 | s05 | [unify-execution-state](./docs/en/s05-unify-execution-state.md) | Unify execution state | 5 | ✅ |
 | s06 | [launch-pause-resume](./docs/en/s06-launch-pause-resume.md) | Launch / pause / resume HTTP API | 6 | ✅ |
-| s07 | contact-humans-with-tools | Contact humans with tools | 7 | ⏳ |
+| s07 | [contact-humans-with-tools](./docs/en/s07-contact-humans-with-tools.md) | Contact humans with tools | 7 | ✅ |
 | s08 | own-your-control-flow | Own your control flow | 8 | ⏳ |
 | s09 | compact-errors | Compact errors into context | 9 | ⏳ |
 | s10 | small-focused-agents | Small, focused agents | 10 | ⏳ |

@@ -18,7 +18,7 @@
 | s04 | [tools-are-structured-outputs](./docs/zh/s04-tools-are-structured-outputs.md) | 工具即结构化输出 | 4 | ✅ |
 | s05 | [unify-execution-state](./docs/zh/s05-unify-execution-state.md) | 统一执行状态与业务状态 | 5 | ✅ |
 | s06 | [launch-pause-resume](./docs/zh/s06-launch-pause-resume.md) | 启动 / 暂停 / 恢复 HTTP API | 6 | ✅ |
-| s07 | contact-humans-with-tools | 用工具调用方式联系人类 | 7 | ⏳ |
+| s07 | [contact-humans-with-tools](./docs/zh/s07-contact-humans-with-tools.md) | 用工具调用方式联系人类 | 7 | ✅ |
 | s08 | own-your-control-flow | 自己控制流程 | 8 | ⏳ |
 | s09 | compact-errors | 错误进上下文，模型自愈 | 9 | ⏳ |
 | s10 | small-focused-agents | 小而专一的子 agent 编排 | 10 | ⏳ |
