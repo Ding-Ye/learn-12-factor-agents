@@ -13,7 +13,7 @@ Pedagogy borrowed from [shareAI-lab/learn-claude-code](https://github.com/shareA
 | # | slug | title | factor | status |
 |---|---|---|---|---|
 | s01 | natural-language-to-tool-calls | Minimum agent primitive — NL → tool calls | 1 | ✅ |
-| s02 | own-your-prompts | Own your prompts | 2 | ⏳ |
+| s02 | [own-your-prompts](./docs/en/s02-own-your-prompts.md) | Own your prompts | 2 | ✅ |
 | s03 | own-your-context-window | Own your context window (Thread + Event) | 3 | ⏳ |
 | s04 | tools-are-structured-outputs | Tools are structured outputs | 4 | ⏳ |
 | s05 | unify-execution-state | Unify execution state | 5 | ⏳ |
