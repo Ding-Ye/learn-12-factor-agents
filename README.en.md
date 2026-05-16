@@ -22,7 +22,7 @@ Pedagogy borrowed from [shareAI-lab/learn-claude-code](https://github.com/shareA
 | s08 | [own-your-control-flow](./docs/en/s08-own-your-control-flow.md) | Own your control flow | 8 | ✅ |
 | s09 | [compact-errors](./docs/en/s09-compact-errors.md) | Compact errors into context | 9 | ✅ |
 | s10 | [small-focused-agents](./docs/en/s10-small-focused-agents.md) | Small, focused agents | 10 | ✅ |
-| s11 | trigger-from-anywhere | Trigger from anywhere (webhook / Slack) | 11 | ⏳ |
+| s11 | [trigger-from-anywhere](./docs/en/s11-trigger-from-anywhere.md) | Trigger from anywhere (webhook / Slack) | 11 | ✅ |
 | s12 | stateless-reducer | Stateless reducer (replay + fork) | 12 | ⏳ |
 | s_full | integration | End-to-end integration | — | ⏳ |
 | App. A | agents-are-software | Appendix A · Agents are mostly software | — | ⏳ |

@@ -30,6 +30,7 @@ jobs:
           - s08-own-your-control-flow
           - s09-compact-errors
           - s10-small-focused-agents
+          - s11-trigger-from-anywhere
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
