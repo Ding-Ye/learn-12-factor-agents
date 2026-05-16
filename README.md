@@ -17,7 +17,7 @@
 | s03 | [own-your-context-window](./docs/zh/s03-own-your-context-window.md) | 自己控制上下文窗口 (Thread + Event) | 3 | ✅ |
 | s04 | [tools-are-structured-outputs](./docs/zh/s04-tools-are-structured-outputs.md) | 工具即结构化输出 | 4 | ✅ |
 | s05 | [unify-execution-state](./docs/zh/s05-unify-execution-state.md) | 统一执行状态与业务状态 | 5 | ✅ |
-| s06 | launch-pause-resume | 启动 / 暂停 / 恢复 HTTP API | 6 | ⏳ |
+| s06 | [launch-pause-resume](./docs/zh/s06-launch-pause-resume.md) | 启动 / 暂停 / 恢复 HTTP API | 6 | ✅ |
 | s07 | contact-humans-with-tools | 用工具调用方式联系人类 | 7 | ⏳ |
 | s08 | own-your-control-flow | 自己控制流程 | 8 | ⏳ |
 | s09 | compact-errors | 错误进上下文，模型自愈 | 9 | ⏳ |
