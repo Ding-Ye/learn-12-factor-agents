@@ -20,7 +20,7 @@
 | s06 | [launch-pause-resume](./docs/zh/s06-launch-pause-resume.md) | 启动 / 暂停 / 恢复 HTTP API | 6 | ✅ |
 | s07 | [contact-humans-with-tools](./docs/zh/s07-contact-humans-with-tools.md) | 用工具调用方式联系人类 | 7 | ✅ |
 | s08 | [own-your-control-flow](./docs/zh/s08-own-your-control-flow.md) | 自己控制流程 | 8 | ✅ |
-| s09 | compact-errors | 错误进上下文，模型自愈 | 9 | ⏳ |
+| s09 | [compact-errors](./docs/zh/s09-compact-errors.md) | 错误进上下文，模型自愈 | 9 | ✅ |
 | s10 | small-focused-agents | 小而专一的子 agent 编排 | 10 | ⏳ |
 | s11 | trigger-from-anywhere | 任意触发源（Webhook / Slack） | 11 | ⏳ |
 | s12 | stateless-reducer | 无状态 reducer (replay + fork) | 12 | ⏳ |
