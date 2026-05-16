@@ -3,4 +3,5 @@ go 1.22
 use (
 	./agents/s01-natural-language-to-tool-calls
 	./agents/s02-own-your-prompts
+	./agents/s03-own-your-context-window
 )

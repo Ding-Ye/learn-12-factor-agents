@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 | s01 | natural-language-to-tool-calls | 最小 agent 原语：自然语言到工具调用 | 1 | ✅ |
 | s02 | [own-your-prompts](./docs/zh/s02-own-your-prompts.md) | 自己控制 prompt | 2 | ✅ |
-| s03 | own-your-context-window | 自己控制上下文窗口 (Thread + Event) | 3 | ⏳ |
+| s03 | [own-your-context-window](./docs/zh/s03-own-your-context-window.md) | 自己控制上下文窗口 (Thread + Event) | 3 | ✅ |
 | s04 | tools-are-structured-outputs | 工具即结构化输出 | 4 | ⏳ |
 | s05 | unify-execution-state | 统一执行状态与业务状态 | 5 | ⏳ |
 | s06 | launch-pause-resume | 启动 / 暂停 / 恢复 HTTP API | 6 | ⏳ |
