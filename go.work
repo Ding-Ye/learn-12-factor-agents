@@ -12,4 +12,5 @@ use (
 	./agents/s09-compact-errors
 	./agents/s10-small-focused-agents
 	./agents/s11-trigger-from-anywhere
+	./agents/s12-stateless-reducer
 )

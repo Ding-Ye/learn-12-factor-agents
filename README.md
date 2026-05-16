@@ -23,7 +23,7 @@
 | s09 | [compact-errors](./docs/zh/s09-compact-errors.md) | 错误进上下文，模型自愈 | 9 | ✅ |
 | s10 | [small-focused-agents](./docs/zh/s10-small-focused-agents.md) | 小而专一的子 agent 编排 | 10 | ✅ |
 | s11 | [trigger-from-anywhere](./docs/zh/s11-trigger-from-anywhere.md) | 任意触发源（Webhook / Slack） | 11 | ✅ |
-| s12 | stateless-reducer | 无状态 reducer (replay + fork) | 12 | ⏳ |
+| s12 | [stateless-reducer](./docs/zh/s12-stateless-reducer.md) | 无状态 reducer (replay + fork) | 12 | ✅ |
 | s_full | integration | 端到端集成 · 12 因子贯通走查 | — | ⏳ |
 | App. A | agents-are-software | 附录 A · 智能体即软件 | — | ⏳ |
 | App. B | upstream-map | 附录 B · 上游源码导读地图 | — | ⏳ |

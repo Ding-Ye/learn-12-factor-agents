@@ -31,6 +31,7 @@ jobs:
           - s09-compact-errors
           - s10-small-focused-agents
           - s11-trigger-from-anywhere
+          - s12-stateless-reducer
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
