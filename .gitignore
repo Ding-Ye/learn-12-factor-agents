@@ -1,0 +1,43 @@
+# Skill scratchpad — local dossier + plan + upstream clone (~80MB).
+# NEVER commit this directory.
+.learn/
+
+# Go
+*.exe
+*.test
+*.prof
+*.out
+/agents/*/coverage.out
+/agents/*/bin/
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Web
+web/node_modules/
+web/.next/
+web/out/
+web/.turbo/
+node_modules/
+
+# Env files (never commit secrets)
+.env
+.env.local
+.env.*.local
+# `go build` produces a binary inside each session dir with the dir's name.
+# Ignore those — only commit source.
+/agents/s01-natural-language-to-tool-calls/s01-natural-language-to-tool-calls
+/agents/s02-own-your-prompts/s02-own-your-prompts
+/agents/s03-own-your-context-window/s03-own-your-context-window
+/agents/s04-tools-are-structured-outputs/s04-tools-are-structured-outputs
+/agents/s05-unify-execution-state/s05-unify-execution-state
+/agents/s06-launch-pause-resume/s06-launch-pause-resume
+/agents/s07-contact-humans-with-tools/s07-contact-humans-with-tools
+/agents/s08-own-your-control-flow/s08-own-your-control-flow
+/agents/s09-compact-errors/s09-compact-errors
+/agents/s10-small-focused-agents/s10-small-focused-agents
+/agents/s11-trigger-from-anywhere/s11-trigger-from-anywhere
+/agents/s12-stateless-reducer/s12-stateless-reducer
