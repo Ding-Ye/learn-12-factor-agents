@@ -16,7 +16,7 @@ Pedagogy borrowed from [shareAI-lab/learn-claude-code](https://github.com/shareA
 | s02 | [own-your-prompts](./docs/en/s02-own-your-prompts.md) | Own your prompts | 2 | ✅ |
 | s03 | [own-your-context-window](./docs/en/s03-own-your-context-window.md) | Own your context window (Thread + Event) | 3 | ✅ |
 | s04 | [tools-are-structured-outputs](./docs/en/s04-tools-are-structured-outputs.md) | Tools are structured outputs | 4 | ✅ |
-| s05 | unify-execution-state | Unify execution state | 5 | ⏳ |
+| s05 | [unify-execution-state](./docs/en/s05-unify-execution-state.md) | Unify execution state | 5 | ✅ |
 | s06 | launch-pause-resume | Launch / pause / resume HTTP API | 6 | ⏳ |
 | s07 | contact-humans-with-tools | Contact humans with tools | 7 | ⏳ |
 | s08 | own-your-control-flow | Own your control flow | 8 | ⏳ |
