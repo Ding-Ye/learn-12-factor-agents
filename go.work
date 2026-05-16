@@ -8,4 +8,5 @@ use (
 	./agents/s05-unify-execution-state
 	./agents/s06-launch-pause-resume
 	./agents/s07-contact-humans-with-tools
+	./agents/s08-own-your-control-flow
 )

@@ -27,6 +27,7 @@ jobs:
           - s05-unify-execution-state
           - s06-launch-pause-resume
           - s07-contact-humans-with-tools
+          - s08-own-your-control-flow
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
