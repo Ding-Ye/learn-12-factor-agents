@@ -10,4 +10,5 @@ use (
 	./agents/s07-contact-humans-with-tools
 	./agents/s08-own-your-control-flow
 	./agents/s09-compact-errors
+	./agents/s10-small-focused-agents
 )
