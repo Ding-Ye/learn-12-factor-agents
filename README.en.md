@@ -51,6 +51,10 @@ Each chapter ships a `README.md` plus bilingual docs. The suggested reading orde
 
 Upstream's [`content/`](https://github.com/humanlayer/12-factor-agents/tree/main/content) is exactly twelve `factor-*.md` files, each describing one engineering pattern. We make every chapter mirror one factor with 30–700 lines of Go + unit tests.
 
+## Multi-model support
+
+All twelve chapters use a stub Provider. Swap for real Anthropic / OpenAI / Baseten LLMs by following [`docs/en/multi-model.md`](./docs/en/multi-model.md) — full Anthropic provider implementation, swap steps, integration-test pattern.
+
 ## Upstream credits
 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) by Dex Horthy & contributors. Apache 2.0 (code) + CC-BY-SA 4.0 (content).

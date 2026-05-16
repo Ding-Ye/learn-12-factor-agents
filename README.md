@@ -51,6 +51,10 @@ go run . "hello"
 
 上游的 [`content/`](https://github.com/humanlayer/12-factor-agents/tree/main/content) 目录正好是 12 个 factor markdown 文件，每个 factor 描述一种工程模式。我们让每章对应一个 factor，配 30-700 行 Go 代码 + 单元测试。
 
+## 多模型支持
+
+12 章的所有 Provider 都是 stub。把 stub 换成真 Anthropic / OpenAI / Baseten provider 的完整指南见 [`docs/zh/multi-model.md`](./docs/zh/multi-model.md) — 含 Anthropic provider 的完整 Go 实现 + 接入步骤 + 集成测试模式。
+
 ## 上游致谢
 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) by Dex Horthy & contributors. Apache 2.0 (code) + CC-BY-SA 4.0 (content).
